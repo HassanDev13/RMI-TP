@@ -1,3 +1,4 @@
+package exo1;
 import java.rmi.Naming;
 
 public class HelloClient {
